@@ -11,9 +11,9 @@
 ### 🔥 About Me
 
 - 🎓 Currently exploring advanced **DSA** and **Full Stack Web Dev**
-- 🌱 Building real-world projects like **Netflix Clone** and **Lost & Found Portal**
-- 💡 Love solving practical problems through tech (especially for India 🇮🇳)
-- 🧠 Into Java, system design, and backend logic
+- 🌱 Built real-world projects like **Netflix Clone** and **Lost & Found Portal**
+- 💡 Love solving practical problems through tech
+- 🧠 Focusing on backend development right now, clean coding, and building meaningful projects
 - 🏫 Active member of **The BYTE Club** – learning and sharing tech with my community
 - 📇 Check out my Codolio profile: [codolio.com/neelesh1303](https://codolio.com/profile/neelesh1303)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/neelesh-kumar-tripathi-11256728a/) or email at `neeleshtripathi101@gmail.com`
