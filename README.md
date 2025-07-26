@@ -16,7 +16,7 @@
 - 🧠 Into Java, system design, and backend logic
 - 🏫 Active member of **The BYTE Club** – learning and sharing tech with my community
 - 📇 Check out my Codolio profile: [codolio.com/neelesh1303](https://codolio.com/profile/neelesh1303)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-link-here) or email at `your.email@example.com`
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/neelesh-kumar-tripathi-11256728a/) or email at `neeleshtripathi101@gmail.com`
 
 ---
 
