@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there! 👋 I'm Neelesh Tripathi</h2>
 <p align="center">
-  🚀 Coder | ☕ Java Enthusiast | 🌐 Web Dev Explorer<br>
+  🚀 Coder | 🧑‍💻 C++ Enthusiast | 🌐 Web Dev Explorer<br>
   Turning coffee into commits and ideas into products.
 </p>
 
