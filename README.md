@@ -11,7 +11,7 @@
 ### 🔥 About Me
 
 - 🎓 Currently exploring advanced **DSA** and **Full Stack Web Dev**
-- 🌱 Built real-world projects like **Mood-Based song recommendation system** and **Lost & Found Portal for colleges**
+- 🌱 Built real-world projects like **Speech to text and sign language model** and **Lost & Found Portal for colleges**
 - 💡 Love solving practical problems through tech
 - 🧠 Focusing on backend development right now, clean coding, and building meaningful projects
 - 🏫 Active member of **The BYTE Club** – learning and sharing tech with my community
