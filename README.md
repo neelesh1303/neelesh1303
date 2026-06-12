@@ -1,85 +1,127 @@
-<!-- GitHub Profile README for Neelesh Tripathi -->
+<h1 align="center">Hey, I'm Neelesh Kumar Tripathi 👋</h1>
 
-<h2 align="center">Hey there! 👋 I'm Neelesh Tripathi</h2>
 <p align="center">
-  🚀 Coder | 🧑‍💻 C++ Enthusiast | 🌐 Web Dev Explorer<br>
-  Turning coffee into commits and ideas into products.
+  <b>Full-Stack Developer · DSA Enthusiast · Builder</b><br/>
+  3rd Year ISE @ The National Institute of Engineering, Mysore · CGPA 8.56/10
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neelesh-kumar-tripathi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:neeleshtripathi36@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/neelesh1303"><img src="https://img.shields.io/badge/Codolio-000000?style=flat&logoColor=white"/></a>
+  <a href="https://github.com/neelesh1303"><img src="https://img.shields.io/github/followers/neelesh1303?label=Follow&style=social"/></a>
 </p>
 
 ---
 
-### 🔥 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Currently exploring advanced **DSA** and **Full Stack Web Dev**
-- 🌱 Built real-world projects like **Speech to text and sign language model** and **Lost & Found Portal for colleges**
-- 💡 Love solving practical problems through tech
-- 🧠 Focusing on backend development right now, clean coding, and building meaningful projects
-- 🏫 Active member of **The BYTE Club** – learning and sharing tech with my community
-- 📇 Check out my Codolio profile: [codolio.com/neelesh1303](https://codolio.com/profile/neelesh1303)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/neelesh-kumar-tripathi-11256728a/) or email at `neeleshtripathi101@gmail.com`
+- 🎓 **B.E. Information Science & Engineering** — NIE Mysore (Batch 2023–2027)
+- 🔨 Building real-world full-stack apps with **MERN Stack**, **Next.js**, and **Flask**
+- 🧠 Solved **450+ DSA problems** | **LeetCode Global Rank ~1533**
+- 🏛️ **Management Core Team Member** — The BYTE Club, NIE
+- 🚀 Passionate about building products that solve real, felt problems
+- 📫 Reach me: **neeleshtripathi36@gmail.com** | **+91 63879-74286**
 
 ---
-
-### 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase-downloads.html)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/get-started)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/downloads)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download)
+**Languages**
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Featured Projects
+
+### 🧠 [Crackd — AI-Powered Placement Assistance Platform](https://github.com/neelesh1303)
+> **MERN · MongoDB · JWT · Hugging Face API · RESTful APIs · Axios**
+
+A peer-to-peer platform where seniors log company-wise interviews and juniors browse, filter, and prepare efficiently.
+- Integrated **Hugging Face API** to generate personalised AI roadmaps with topic-based checklists
+- Built **JWT authentication** with role-based access control and protected route handling
+- Developed roadmap tracking and progress dashboards for milestone monitoring
+
+---
+
+### 🔎 [Lost & Found Item Report Website](https://github.com/neelesh1303/lost-and-found)
+> **Flask · MySQL · HTML · CSS · JavaScript**
+
+A full-stack web app for reporting, browsing, and managing lost and found items.
+- Flask backend with MySQL achieving **sub-200ms query performance**
+- Keyword-based search and category filtering for efficient item lookup
+
+---
+
+### 🤟 [Sign Language ↔ Speech Translation Platform](https://github.com/neelesh1303)
+> **Python · ML · OpenCV · Whisper · APIs**
+
+Real-time translation platform bridging deaf/mute students and educators — built in **36 hours at DevJams VIT**.
+- Trained ML models on **180+ gesture samples** achieving **80% accuracy**
+- End-to-end translation latency **under 1 second** for live classroom use
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **4th Place** — DevJams VIT (National Hackathon)
+- 📊 **LeetCode Global Rank ~1533** via consistent weekly contest participation
+- 💡 **450+ DSA problems** solved across LeetCode, Codeforces, and other platforms
+- 🎙️ Organised **10+ workshops and coding events** for **200+ students** as BYTE Club Core Member
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelesh1303&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelesh1303&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neelesh1303&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelesh1303&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh1303&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neelesh1303&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=neelesh1303&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelesh1303&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelesh1303&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-- 🔎 [Lost and Found](https://github.com/neelesh1303/lost-and-found)  
-  A digital platform to report and find lost items, perfect for campuses or public areas.
-
-- 📺 [Netflix Clone](https://github.com/neelesh1303/netflix-clone)  
-  A front-end Netflix UI clone built using HTML and CSS with clean responsive design.
-
-- 📊 [Logistic Regression Project](https://github.com/neelesh1303/logistic-regression-project)  
-  A machine learning mini-project using Jupyter Notebook to demonstrate binary classification.
-
----
-
-### 🎸 Fun Fact
-
-> When I'm not debugging code, I'm probably debugging guitar chords and hitting high notes 🎸🎤
-
----
-
 <p align="center">
-  <a href="https://github.com/neelesh1303"><img src="https://img.shields.io/github/followers/neelesh1303?label=Follow&style=social"></a>
+  <i>"Build things that matter. Ship before perfect."</i>
 </p>
