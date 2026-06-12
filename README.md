@@ -106,10 +106,10 @@ Real-time translation platform bridging deaf/mute students and educators — bui
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 Coding Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neelesh1303&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://leetcard.jacoblin.cool/neelesh1303?theme=dark&font=Nunito&ext=heatmap" width="60%"/>
 </p>
 
 ---
