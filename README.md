@@ -109,7 +109,9 @@ Real-time translation platform bridging deaf/mute students and educators — bui
 ## 🏅 Coding Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/neelesh2108?theme=dark&font=Nunito&ext=heatmap" width="60%"/>
+  <a href="https://codolio.com/profile/neelesh1303">
+    <img src="https://img.shields.io/badge/Codolio-View%20My%20Coding%20Profile-6C63FF?style=for-the-badge&logo=code&logoColor=white"/>
+  </a>
 </p>
 
 ---
