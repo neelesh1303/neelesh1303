@@ -66,11 +66,11 @@ A peer-to-peer platform where seniors log company-wise interviews and juniors br
 
 ---
 
-### 🔎 [Lost & Found Item Report Website](https://github.com/neelesh1303/lost-and-found)
+### 🔎 [FinNIE- Lost & Found Platform Website](https://github.com/neelesh1303/FinNIE-lost-and-found-item-tracker)
 > **Flask · MySQL · HTML · CSS · JavaScript**
 
 A full-stack web app for reporting, browsing, and managing lost and found items.
-- Flask backend with MySQL achieving **sub-200ms query performance**
+- Flask backend with MySQL measuring **sub-10ms query performance**
 - Keyword-based search and category filtering for efficient item lookup
 
 ---
