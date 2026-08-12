@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer · DSA Enthusiast · Builder</b><br/>
-  3rd Year ISE @ The National Institute of Engineering, Mysore · CGPA 8.56/10
+  4td Year ISE @ The National Institute of Engineering, Mysore
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 - 🎓 **B.E. Information Science & Engineering** — NIE Mysore (Batch 2023–2027)
 - 🔨 Building real-world full-stack apps with **MERN Stack**, **Next.js**, and **Flask**
-- 🧠 Solved **450+ DSA problems** | **LeetCode Global Rank ~1533**
+- 🧠 Solved **450+ DSA problems**
 - 🏛️ **Management Core Team Member** — The BYTE Club, NIE
 - 🚀 Passionate about building products that solve real, felt problems
-- 📫 Reach me: **neeleshtripathi36@gmail.com** |[**LinkedIn**](https://www.linkedin.com/in/neelesh-kumar-tripathi/)
+- 📫 Reach me: **neeleshtripathi36@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/neelesh-kumar-tripathi/)
 
 ---
 
@@ -66,7 +66,7 @@ A peer-to-peer platform where seniors log company-wise interviews and juniors br
 
 ---
 
-### 🔎 [FinNIE- Lost & Found Platform Website](https://github.com/neelesh1303/FinNIE-lost-and-found-item-tracker)
+### 🔎 [FinNIE- Lost & Found Platform](https://github.com/neelesh1303/FinNIE-lost-and-found-item-tracker)
 > **Flask · MySQL · HTML · CSS · JavaScript**
 
 A full-stack web app for reporting, browsing, and managing lost and found items.
@@ -88,7 +88,7 @@ Real-time translation platform bridging deaf/mute students and educators — bui
 
 - 🥈 **4th Place** — DevJams VIT (National Hackathon)
 - 📊 **LeetCode Global Rank ~1533** via consistent weekly contest participation
-- 💡 **450+ DSA problems** solved across LeetCode, Codeforces, and other platforms
+- 💡 **450+ DSA problems** solved across LeetCode, GFG, and other platforms
 - 🎙️ Organised **10+ workshops and coding events** for **200+ students** as BYTE Club Core Member
 
 ---
