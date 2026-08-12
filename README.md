@@ -21,7 +21,7 @@
 - 🧠 Solved **450+ DSA problems** | **LeetCode Global Rank ~1533**
 - 🏛️ **Management Core Team Member** — The BYTE Club, NIE
 - 🚀 Passionate about building products that solve real, felt problems
-- 📫 Reach me: **neeleshtripathi36@gmail.com** | **+91 63879-74286**
+- 📫 Reach me: **neeleshtripathi36@gmail.com** |[**LinkedIn**](https://www.linkedin.com/in/neelesh-kumar-tripathi/)
 
 ---
 
