@@ -18,7 +18,7 @@
 
 - 🎓 **B.E. Information Science & Engineering** — NIE Mysore (Batch 2023–2027)
 - 🔨 Building real-world full-stack apps with **MERN Stack**, **Next.js**, and **Flask**
-- 🧠 Solved **450+ DSA problems**
+- 🧠 Solved **500+ DSA problems**
 - 🏛️ **Management Core Team Member** — The BYTE Club, NIE
 - 🚀 Passionate about building products that solve real, felt problems
 - 📫 Reach me: **neeleshtripathi36@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/neelesh-kumar-tripathi/)
