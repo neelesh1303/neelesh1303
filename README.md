@@ -1,99 +1,113 @@
-<h1 align="center">Hey, I'm Neelesh Kumar Tripathi 👋</h1>
+<h1 align="left">Hey, I'm Neelesh Kumar Tripathi 👋</h1>
 
-<p align="center">
+<p align="left">
   <b>Full-Stack Developer · DSA Enthusiast · Builder</b><br/>
   4th Year ISE @ The National Institute of Engineering, Mysore
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/neelesh-kumar-tripathi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:neeleshtripathi36@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/neelesh1303"><img src="https://img.shields.io/badge/Codolio-000000?style=flat&logoColor=white"/></a>
-  <a href="https://github.com/neelesh1303"><img src="https://img.shields.io/github/followers/neelesh1303?label=Follow&style=social"/></a>
+---
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/neelesh-kumar-tripathi/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:neeleshtripathi36@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/neelesh1303">
+    <img src="https://img.shields.io/badge/CODOLIO-000000?style=for-the-badge&logo=code&logoColor=white"/>
+  </a>
+  <a href="https://github.com/neelesh1303">
+    <img src="https://img.shields.io/github/followers/neelesh1303?label=FOLLOW&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## Languages and Tools
 
-- 🎓 **B.E. Information Science & Engineering** — NIE Mysore (Batch 2023–2027)
-- 🔨 Building real-world full-stack apps with **MERN Stack**, **Next.js**, and **Flask**
-- 🧠 Solved **500+ DSA problems**
-- 🏛️ **Management Core Team Member** — The BYTE Club, NIE
-- 🚀 Passionate about building products that solve real, felt problems
-- 📫 Reach me: **neeleshtripathi36@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/neelesh-kumar-tripathi/)
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 DSA
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+- 💻 **500+ DSA Problems Solved**
+- 🏆 **LeetCode Global Rank ~1533**
+- 📚 Solved problems across **LeetCode, GeeksforGeeks, and other platforms**
+- 🔥 Consistently improving problem-solving and competitive programming skills
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [Crackd — AI-Powered Placement Assistance Platform](https://github.com/neelesh1303)
-> **MERN · MongoDB · JWT · Hugging Face API · RESTful APIs · Axios**
+### 🧠 Crackd — AI-Powered Placement Assistance Platform
 
-A peer-to-peer platform where seniors log company-wise interviews and juniors browse, filter, and prepare efficiently.
-- Integrated **Hugging Face API** to generate personalised AI roadmaps with topic-based checklists
-- Built **JWT authentication** with role-based access control and protected route handling
-- Developed roadmap tracking and progress dashboards for milestone monitoring
+**MERN · MongoDB · JWT · Hugging Face API · REST APIs · Axios**
 
----
+A peer-to-peer platform where seniors share company-wise interview experiences and juniors use them for focused preparation.
 
-### 🔎 [FinNIE- Lost & Found Platform](https://github.com/neelesh1303/FinNIE-lost-and-found-item-tracker)
-> **Flask · MySQL · HTML · CSS · JavaScript**
-
-A full-stack web app for reporting, browsing, and managing lost and found items.
-- Flask backend with MySQL measuring **sub-10ms query performance**
-- Keyword-based search and category filtering for efficient item lookup
+- Integrated **Hugging Face API** to generate personalised AI preparation roadmaps
+- Implemented **JWT authentication** and role-based access control
+- Built roadmap tracking and progress dashboards
+- Designed company-wise interview preparation workflows
 
 ---
 
-### 🤟 [Sign Language ↔ Speech Translation Platform](https://github.com/neelesh1303)
-> **Python · ML · OpenCV · Whisper · APIs**
+### 🔎 FinNIE — Lost & Found Platform
 
-Real-time translation platform bridging deaf/mute students and educators — built in **36 hours at DevJams VIT**.
-- Trained ML models on **180+ gesture samples** achieving **80% accuracy**
-- End-to-end translation latency **under 1 second** for live classroom use
+**Flask · MySQL · HTML · CSS · JavaScript**
+
+A full-stack platform for reporting, discovering, and managing lost and found items.
+
+- Built the backend using **Flask and MySQL**
+- Implemented keyword-based search and category filtering
+- Achieved **sub-10ms query performance**
+- Designed a simple workflow for reporting and finding items
+
+---
+
+### 🤟 Sign Language ↔ Speech Translation Platform
+
+**Python · Machine Learning · OpenCV · Whisper · APIs**
+
+An accessibility-focused platform designed to bridge communication between deaf/mute students and educators.
+
+- Built during **DevJams VIT in 36 hours**
+- Trained ML models using **180+ gesture samples**
+- Achieved approximately **80% gesture recognition accuracy**
+- Implemented real-time sign, speech, and text translation
+- Targeted real-time classroom communication
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 **4th Place** — DevJams VIT (National Hackathon)
-- 📊 **LeetCode Global Rank ~1533** via consistent weekly contest participation
-- 💡 **450+ DSA problems** solved across LeetCode, GFG, and other platforms
-- 🎙️ Organised **10+ workshops and coding events** for **200+ students** as BYTE Club Core Member
+- 🥈 **4th Place — DevJams VIT National Hackathon**
+- 📊 **LeetCode Global Rank ~1533**
+- 🧠 **500+ DSA Problems Solved**
+- 🏛️ **Management Core Team Member — The BYTE Club, NIE**
+- 🎙️ Organised **10+ workshops and coding events**
+- 👥 Events and workshops reaching **200+ students**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neelesh1303&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -106,7 +120,7 @@ Real-time translation platform bridging deaf/mute students and educators — bui
 
 ---
 
-## 🏅 Coding Stats
+## 📈 Coding Profiles
 
 <p align="center">
   <a href="https://codolio.com/profile/neelesh1303">
@@ -116,14 +130,6 @@ Real-time translation platform bridging deaf/mute students and educators — bui
 
 ---
 
-## 📊 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelesh1303&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Build things that matter. Ship before perfect."</i>
+  <i>Building products. Solving problems. Learning every day. 🚀</i>
 </p>
