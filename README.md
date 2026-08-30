@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer · DSA Enthusiast · Builder</b><br/>
-  4td Year ISE @ The National Institute of Engineering, Mysore
+  4th Year ISE @ The National Institute of Engineering, Mysore
 </p>
 
 <p align="center">
