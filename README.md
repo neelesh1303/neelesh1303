@@ -1,135 +1,30 @@
-<h1 align="left">Hey, I'm Neelesh Kumar Tripathi 👋</h1>
+name: 3D Profile Contribution Graph
 
-<p align="left">
-  <b>Full-Stack Developer · DSA Enthusiast · Builder</b><br/>
-  4th Year ISE @ The National Institute of Engineering, Mysore
-</p>
+on:
+  schedule:
+    # runs once a day at 00:00 UTC — adjust as you like
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
----
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
 
-## Connect with me
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: neelesh1303
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/neelesh-kumar-tripathi/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:neeleshtripathi36@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://codolio.com/profile/neelesh1303">
-    <img src="https://img.shields.io/badge/CODOLIO-000000?style=for-the-badge&logo=code&logoColor=white"/>
-  </a>
-  <a href="https://github.com/neelesh1303">
-    <img src="https://img.shields.io/github/followers/neelesh1303?label=FOLLOW&style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-## Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 🧠 DSA
-
-- 💻 **500+ DSA Problems Solved**
-- 🏆 **LeetCode Global Rank ~1533**
-- 📚 Solved problems across **LeetCode, GeeksforGeeks, and other platforms**
-- 🔥 Consistently improving problem-solving and competitive programming skills
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Crackd — AI-Powered Placement Assistance Platform
-
-**MERN · MongoDB · JWT · Hugging Face API · REST APIs · Axios**
-
-A peer-to-peer platform where seniors share company-wise interview experiences and juniors use them for focused preparation.
-
-- Integrated **Hugging Face API** to generate personalised AI preparation roadmaps
-- Implemented **JWT authentication** and role-based access control
-- Built roadmap tracking and progress dashboards
-- Designed company-wise interview preparation workflows
-
----
-
-### 🔎 FinNIE — Lost & Found Platform
-
-**Flask · MySQL · HTML · CSS · JavaScript**
-
-A full-stack platform for reporting, discovering, and managing lost and found items.
-
-- Built the backend using **Flask and MySQL**
-- Implemented keyword-based search and category filtering
-- Achieved **sub-10ms query performance**
-- Designed a simple workflow for reporting and finding items
-
----
-
-### 🤟 Sign Language ↔ Speech Translation Platform
-
-**Python · Machine Learning · OpenCV · Whisper · APIs**
-
-An accessibility-focused platform designed to bridge communication between deaf/mute students and educators.
-
-- Built during **DevJams VIT in 36 hours**
-- Trained ML models using **180+ gesture samples**
-- Achieved approximately **80% gesture recognition accuracy**
-- Implemented real-time sign, speech, and text translation
-- Targeted real-time classroom communication
-
----
-
-## 🏆 Achievements
-
-- 🥈 **4th Place — DevJams VIT National Hackathon**
-- 📊 **LeetCode Global Rank ~1533**
-- 🧠 **500+ DSA Problems Solved**
-- 🏛️ **Management Core Team Member — The BYTE Club, NIE**
-- 🎙️ Organised **10+ workshops and coding events**
-- 👥 Events and workshops reaching **200+ students**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelesh1303&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelesh1303&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh1303&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
-
-## 📈 Coding Profiles
-
-<p align="center">
-  <a href="https://codolio.com/profile/neelesh1303">
-    <img src="https://img.shields.io/badge/Codolio-View%20My%20Coding%20Profile-6C63FF?style=for-the-badge&logo=code&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building products. Solving problems. Learning every day. 🚀</i>
-</p>
+      - name: Commit and push the generated images
+        run: |
+          git config user.name  github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          git commit -m "docs: update 3D contribution graph" || echo "No changes to commit"
+          git push
