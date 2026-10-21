@@ -3,6 +3,7 @@
 <p align="left">
   <b>Full-Stack Developer · DSA Enthusiast · Builder</b><br/>
   4th Year ISE @ The National Institute of Engineering, Mysore
+  🌐 <a href="https://portfolio-website-five-ebon-78.vercel.app/">View my portfolio</a>
 </p>
 
 ---
