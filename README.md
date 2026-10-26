@@ -121,12 +121,16 @@ An accessibility-focused platform designed to bridge communication between deaf/
 
 ---
 
-## 🗼 3D Contribution Graph
+## My GitHub Contributions
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph"/>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/neelesh1303/neelesh1303/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/neelesh1303/neelesh1303/output/github-snake.svg" />
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/neelesh1303/neelesh1303/output/github-snake.svg" />
+</picture>
 
 ---
 
