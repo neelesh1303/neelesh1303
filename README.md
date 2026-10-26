@@ -122,9 +122,10 @@ An accessibility-focused platform designed to bridge communication between deaf/
 ---
 
 
-## 📊 3D Contribution Graph
+## 📊 My GitHub Contributions
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 ---
