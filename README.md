@@ -121,11 +121,11 @@ An accessibility-focused platform designed to bridge communication between deaf/
 
 ---
 
+## 🗼 3D Contribution Graph
 
-## 📊 My GitHub Contributions
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph"/>
+</p>
 
 
 ---
